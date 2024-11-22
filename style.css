@@ -1,0 +1,14 @@
+body{
+    font-family: "Quicksand", serif;
+    background: black;
+    color: crimson;
+    margin: 8px;
+    margin-bottom: 100px;
+}
+.chamada{
+    background: aliceblue;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
